@@ -33,7 +33,7 @@ This is a hands-on phishing simulation project using [Gophish](https://getgophis
 
 ## 📸 Screenshots
 
-_See `screenshots/` folder_
+See [screenshots](screenshots)
 
 
 ---
