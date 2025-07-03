@@ -1,4 +1,4 @@
-🛡️ Phishing Attack Simulation with Gophish 
+🛡️ Phishing Attack Simulation with Gophish
 
 This is a hands-on phishing simulation project using [Gophish](https://getgophish.com/), deployed on [Railway](https://railway.app) as part of my cybersecurity learning journey.
 
