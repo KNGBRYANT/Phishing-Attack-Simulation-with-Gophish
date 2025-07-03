@@ -31,6 +31,17 @@ This is a hands-on phishing simulation project using [Gophish](https://getgophis
 
 ---
 
+## ❗ Important Notes
+
+- This project is for **educational and defensive purposes only**.
+- I do **not condone malicious phishing** in any form.
+- The simulation was performed in a **controlled, safe lab environment**.
+- It is intended to **help cybersecurity learners understand how phishing works**, so they can build better defenses.
+- This project emphasizes the **importance of user awareness** as the first line of defense.
+- Educating users on how to identify suspicious emails and links can greatly reduce the success of real-world phishing attacks.
+
+---
+
 ## 📸 Screenshots
 
 See [screenshots](/screenshots)
